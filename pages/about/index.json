@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "kp-icon": "/components/kp-icon/index",
+    "kp-navbar": "/components/kp-navbar/index",
+    "kp-avatar": "/components/kp-avatar/index",
+    "kp-author": "/components/kp-author/index",
+    "kp-actionsheet": "/components/kp-actionsheet/index"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "pages": [
+    "pages/home/index",
+    "pages/lab/index",
+    "pages/webview/index",
+    "pages/about/index",
+    "pages/creator/index",
+    "pages/poster/index",
+    "pages/land/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationStyle": "custom",
+    "backgroundColor": "#11121c",
+    "backgroundColorTop": "#11121c",
+    "backgroundColorBottom": "#11121c"
+  },
+  "tabBar": {
+    "custom": true,
+    "color": "#11121c",
+    "selectedColor": "#11121c",
+    "backgroundColor": "#11121c",
+    "list": [
+      {
+        "pagePath": "pages/home/index",
+        "text": "Home",
+        "iconPath": "static/tabBar/icon_home_normal.png",
+        "selectedIconPath": "static/tabBar/icon_home_normal.png"
+      },
+      {
+        "pagePath": "pages/lab/index",
+        "text": "Lab",
+        "iconPath": "static/tabBar/icon_spin_normal.png",
+        "selectedIconPath": "static/tabBar/icon_spin_normal.png"
+      }
+    ]
+  },
+  "navigateToMiniProgramAppIdList": [
+    "wx1014f2e01d1623f9",
+    "wx8106d3961f485f43",
+    "wx1bff9cb67feb77b3",
+    "wx55926564822f5983",
+    "wxaddd5e379b1a72ee",
+    "wxffc08ac7df482a27",
+    "wx9074de28009e1111",
+    "wxef0633b7d41f9bb2",
+    "wxfb1c0bd6179a8b50",
+    "wx94147d3c986afa3b",
+    "wxbb7da23406addc2f",
+    "wxa717aca07db3bb5a",
+    "wxc96dc7ebd9bf61e8",
+    "wx4314e3b0d3cb43bf"
+  ],
+  "usingComponents": {
+    "poster": "/wxcomponents/wxa-plugin-canvas/poster/index"
+  },
+  "sitemapLocation": "sitemap.json"
+}

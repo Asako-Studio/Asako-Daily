@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "kp-mask": "/components/kp-mask/index"
+  }
+}

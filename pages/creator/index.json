@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "kp-icon": "/components/kp-icon/index",
+    "kp-badge": "/components/kp-badge/index",
+    "kp-button": "/components/kp-button/index",
+    "kp-avatar": "/components/kp-avatar/index",
+    "kp-navbar": "/components/kp-navbar/index",
+    "kp-spin": "/components/kp-spin/index",
+    "kp-actionsheet": "/components/kp-actionsheet/index"
+  }
+}

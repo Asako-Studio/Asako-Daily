@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/kp-mask/index"],{"1d0b":function(t,e,n){"use strict";n.r(e);var o=n("4783"),a=n("ec7d");for(var i in a)"default"!==i&&function(t){n.d(e,t,(function(){return a[t]}))}(i);n("17cf");var u,c=n("f0c5"),l=Object(c["a"])(a["default"],o["b"],o["c"],!1,null,"10b95f6a",null,!1,o["a"],u);e["default"]=l.exports},4783:function(t,e,n){"use strict";var o,a=function(){var t=this,e=t.$createElement;t._self._c},i=[];n.d(e,"b",(function(){return a})),n.d(e,"c",(function(){return i})),n.d(e,"a",(function(){return o}))},c691:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var o=function(){Promise.all([n.e("common/vendor"),n.e("components/kp-icon/index")]).then(function(){return resolve(n("65e6"))}.bind(null,n)).catch(n.oe)},a={name:"KpMask",components:{KpIcon:o},props:{value:{type:Boolean,default:!1},opacity:{type:[String,Number],default:.6},position:{type:String,validator:function(t){return["center","top","bottom"].includes(t)},default:"center"},locked:{type:Boolean,default:!1},closeIconShow:{type:Boolean,default:!0},closeIconSize:{type:[Number,String],default:70},animationIn:{type:Boolean,default:!0},animationCancel:{type:Boolean,default:!1}},data:function(){return{prefixCls:"k-mask",animationOut:!1}},methods:{handleClickMask:function(){this.$emit("clickMask",!1),!this.locked&&this.value&&this.handleCloseMask()},handleCloseMask:function(){var t=this;this.animationOut=!0,setTimeout((function(){t.animationOut=!1,t.$emit("close",!1)}),300)}}};e.default=a},ec7d:function(t,e,n){"use strict";n.r(e);var o=n("c691"),a=n.n(o);for(var i in o)"default"!==i&&function(t){n.d(e,t,(function(){return o[t]}))}(i);e["default"]=a.a}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/kp-mask/index-create-component',
+    {
+        'components/kp-mask/index-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("1d0b"))
+        })
+    },
+    [['components/kp-mask/index-create-component']]
+]);

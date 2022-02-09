@@ -1,9 +1,27 @@
 # Asako-Daily
 
-一页日历 • 精美壁纸库 RSS
+一页日历 • AI 精选全球摄影与艺术壁纸库
 
-AI 精选全球视觉与摄影艺术，伴你每天好心情 🌞
+<p align='center'>
+  <img src='https://asako-studio-1251838073.file.myqcloud.com/miniprogram/static/images/967d9727ly1gduq4gsy60j20v91jk76k.jpg' sidth='480' />
+</p>
 
-| Miniprogram | Home | About | Wallpaper Detail | AI 日报 |
-| - | - | - | - | - |
-| <img src="http://imglf3.nosdn0.126.net/img/eCsxeXUwR1dBeGNsdE9SVWdXZHNxRGdDelZVL0l1aEYxSXdQT1JzMHV3SlVlYmlETXU5WHl3PT0.jpeg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg" width="180" /><br/><img src="http://imglf3.nosdn0.126.net/img/eCsxeXUwR1dBeGNsdE9SVWdXZHNxRkJSSGYrWTdyM0pwcWZvNDNkVU1uVDkwbm9SSFJYL25nPT0.jpeg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg" width="180" /> | <img src="http://imglf3.nosdn0.126.net/img/eCsxeXUwR1dBeGNsdE9SVWdXZHNxQmlVejBzYXRtQzFsd1QrSjRMMlB6K1JjRldScm1aWDlRPT0.jpeg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg" width="180" /> | <img src="http://imglf4.nosdn0.126.net/img/eCsxeXUwR1dBeGZWRXM5Z0NjSUJzSmY4aHFmTWtGMmZPQWgwWmlsMzhOODFobDBzU1VrNE9nPT0.jpeg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg" width="180" /> | <img src="http://imglf5.nosdn0.126.net/img/eCsxeXUwR1dBeGNsdE9SVWdXZHNxREVNQzZpRGg1TUxGWkhEYkZBblZ2M2VnMnFtbGNZb0dBPT0.jpeg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg" width="180" /> | <img src="http://imglf6.nosdn0.126.net/img/eCsxeXUwR1dBeGNsdE9SVWdXZHNxS3VjS3JSa1RKN1lWUHJ4dGcwTVYydjVXMEVjYm1UbFl3PT0.jpeg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg" width="180" /><br/><img src="http://imglf6.nosdn0.126.net/img/eCsxeXUwR1dBeGNsdE9SVWdXZHNxS0E1RGZVYkxuZWkvQjVnc2RGT2FYcG9zYnJFMDNIUUZBPT0.jpeg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg" width="180" /> |
+<p align='center'>
+  <img src='https://asako-studio-1251838073.file.myqcloud.com/miniprogram/static/images/967d9727ly1gqzgoklgqzj20yi5ce7wi.jpg' sidth='480' />
+</p>
+
+<p align='center'>
+  <img src='https://asako-studio-1251838073.file.myqcloud.com/miniprogram/static/images/967d9727ly1gqzgol7di1j20yi4o0dvi.jpg' sidth='480' />
+</p>
+
+<p align='center'>
+  <img src='https://asako-studio-1251838073.file.myqcloud.com/miniprogram/static/images/967d9727ly1gr8igamk7wj20cacmbhe7.jpg' sidth='480' />
+</p>
+
+<p align='center'>
+  <img src='https://asako-studio-1251838073.file.myqcloud.com/miniprogram/static/images/967d9727ly1gduq1irikwj20v91jlnph.jpg' sidth='480' />
+</p>
+
+<p align='center'>
+  <img src='https://asako-studio-1251838073.file.myqcloud.com/miniprogram/static/images/967d9727ly1gduq1lbqmqj20v91jl4qr.jpg' sidth='480' />
+</p>
